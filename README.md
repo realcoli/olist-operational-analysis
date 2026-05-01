@@ -1,5 +1,9 @@
 # 📊 Análise Operacional de Pedidos e Entregas — Olist Dataset
 
+🔗 [Abrir no Google Colab](https://colab.research.google.com/drive/12EJqpVnDTMaJ2UDV3VxwMqg1_k1JCHaw?usp=sharing)
+
+---
+
 ## 🎯 Objetivo
 
 Este projeto analisa dados operacionais de um marketplace brasileiro utilizando o dataset público da Olist.
