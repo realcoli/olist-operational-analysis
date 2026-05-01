@@ -2,6 +2,8 @@
 
 🔗 [Abrir no Google Colab](https://colab.research.google.com/drive/12EJqpVnDTMaJ2UDV3VxwMqg1_k1JCHaw?usp=sharing)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](SEU_LINK_AQUI)
+
 ---
 
 ## 🎯 Objetivo
