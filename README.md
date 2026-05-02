@@ -25,7 +25,7 @@ Identificamos os momentos do dia com maior volume de compras para otimização d
 ### 2. Tempo Médio de Entrega por Estado
 Análise do tempo que os pedidos levam para chegar aos clientes em cada estado brasileiro, comparados à média nacional.
 
-![Tempo de Entrega por Estado](images/Tempo Médio de Entrega por Estado.png)
+![Tempo de Entrega por Estado](images/Tempo-Médio-de-Entrega-por-Estado.png)
 
 * **Insight:** Estados da Região Norte (como RR, AP e AM) apresentam prazos de entrega significativamente superiores à média nacional. É necessário reavaliar os parceiros logísticos locais.
 
